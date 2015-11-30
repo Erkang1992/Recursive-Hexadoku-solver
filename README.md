@@ -10,3 +10,5 @@ Algorithm:
 Because the Sudoku is a NP complete problem, the recursive backtrack algorithm is a common method to solve this problem. 
 The core of the algorithm is an exhaustive search of all possible results until it finds a solution.
 Note that the number of solutions may not be unique, and the running time of the algorithm will increase as the increase of the dimension of the Sudoku
+
+The values in Hexadoku are all from the text file, named Hexadukos.txt, which is assigned by the character string constant filename.
